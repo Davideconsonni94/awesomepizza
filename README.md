@@ -1,7 +1,7 @@
 # Awesome Pizza
 
 
-## Depencies
+## Dependencies
 
 - Java: 21+
 - Mvn: 3.9+
